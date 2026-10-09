@@ -4,8 +4,7 @@ This is a script to check the Cloud SQL On Demand Backup size in your GCP Projec
 2. -p  : The Project ID Google Cloud (Optional)
 
 After download, make sure to change the file mode to execute by running: chmod +x script.sh.
-Below is the content of the script for easy copy paste. Or you can download the sh file here.
-https://github.com/indragmx/csql-tools/blob/main/check_csql_backup_size.sh
+Below is the content of the script for easy copy paste. Or you can download the sh file [here] (https://github.com/indragmx/csql-tools/blob/main/check_csql_backup_size.sh).
 
 ###### Start of the Script #########
 
